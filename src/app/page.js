@@ -6,6 +6,7 @@ export default function Home() {
       <h1>
         Hellow World!!
       </h1>
+      <p>THis is the second test</p>
     </div>
   );
 }
